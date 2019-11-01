@@ -1,0 +1,28 @@
+table, th, td {
+	width: 200;
+}
+.ausgabetable{
+	width: Auto;
+}
+.buttons {
+	background-color: #D8D8D8;
+}
+.oben {
+	background-color: #D8D8D8;
+}
+body{
+	background-color: #585858;
+	color: Black;
+	font-weight: bold;
+}
+table{
+	color: Black;
+	font-weight: bold;
+}
+.überschrift{
+	color: White;
+	font-weight: bold;
+}
+.werdran{
+	color: White;
+}
